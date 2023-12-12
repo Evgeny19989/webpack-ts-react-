@@ -1,0 +1,9 @@
+# Folders
+/node_modules/
+/build/
+
+# Files
+*sublime*
+*.ini
+*.code-workspace
+*.ico
